@@ -1,0 +1,9 @@
+baseURL : 'http://example.org/'
+languageCode : 'en-us'
+title : 'My New Hugo Site'
+theme : "PaperMod"
+socialIcons:
+    - name: "kofi"
+        url: "https://kofi.com"
+    - name: "twitter"
+        url: "https://twitter.com"
